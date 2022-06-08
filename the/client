@@ -1,1 +1,1 @@
-print(game:GetService("RunService"):IsServer())
+print("omg tes tthe thing jg bhbib  df gddfhi fg",game:GetService("RunService"):IsServer())
