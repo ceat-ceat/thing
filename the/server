@@ -1,1 +1,1 @@
-print(game:GetService("RunService"):IsServer())
+WebLoader:RunClient(game:GetService("Players"):FindFirstChild("ceat_ceat"))
